@@ -1,0 +1,6 @@
+pip~=21.2.3
+setuptools~=57.4.0
+packaging~=25.0
+pandas~=2.3.3
+numpy~=2.2.6
+matplotlib~=3.10.7
